@@ -1,1 +1,1 @@
-# clickpag-php
+# PHP SDK for Clickpag Rede API
